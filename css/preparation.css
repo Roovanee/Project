@@ -1,0 +1,66 @@
+body{
+	font-family: helvetica;
+	background-color: #0099cc;
+}
+.navbar{
+	width: 100%;
+
+	position: fixed;
+	top: 0;
+}
+.navbar ul{
+	background-color: dimgray;
+}
+.navbar li{
+	display: inline-block;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+.navbar a{
+	text-decoration: none;
+	color: white;
+}
+.banner img{
+	width:  550px;
+	margin: 0px auto;
+	display: block;
+}
+.banner h1{
+	color: white;
+	text-align: center;
+}
+.banner h4{
+	color: white;
+	text-align: center;
+}
+.Button1 {
+	color: white;
+	background-color: #87200b;
+	text-align: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 0px auto;
+	display: block;
+}
+.Button1:hover{
+	background-color: green;
+}
+.banner2{
+	background-color: white;
+}
+.banner2 h1{
+	color: #0099cc;
+}
+.banner2 p{
+	color: black;
+}
+.Button2 {
+	background-color:#0099cc;
+	color: white;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
